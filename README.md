@@ -1,3 +1,3 @@
 Playing around with creating a shape with just CSS.
 
-!(KMFavicon.jpg)
+![Favicon with purple gradient](KMFavicon.jpg)
