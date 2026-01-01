@@ -26,16 +26,13 @@ body {
   width: 668px;
   height: 484px;
   background: linear-gradient(180deg, #5856D6 0%, rgba(175, 82, 222, 0.90) 100%);
-  border-top-left-radius: 200px;
-  border-top-right-radius: 30px;
-  border-bottom-right-radius: 200px;
-  border-bottom-left-radius: 30px;
+  border-radius: 115px;
   padding-bottom: 85px;
   text-align: center;
   color: white;
-  font-size: 360px;
-  font-family: Martel Sans;
-  font-weight: 700;
+  font-size: 400px;
+  font-family: Inter;
+  font-weight: 900;
   box-shadow: rgba(0, 0, 0, 0.45) 1px 1px 40px 0px inset;
   margin: 0 auto 120px auto;
 }
